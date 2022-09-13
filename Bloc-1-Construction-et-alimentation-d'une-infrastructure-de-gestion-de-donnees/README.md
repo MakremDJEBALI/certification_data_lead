@@ -1,4 +1,8 @@
-Répertoire contenant code source pour le projet libre Jeux vidéo League of Legends
-Vidéo : 
-Slides de la présentation :
-Code source : 
+Répertoire contenant le projet libre "Jeux vidéos League of Legends"  
+
+Vidéo :  
+
+Slides de la présentation :  
+
+Code source :  
+
